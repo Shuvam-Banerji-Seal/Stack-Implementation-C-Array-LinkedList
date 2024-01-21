@@ -23,12 +23,12 @@ This repository showcases a versatile stack implementation in C, offering both a
    git clone https://github.com/your-username/stack-implementation-c.git
 
 2. Navigate to the project directory:
-   '''bash
+   ```bash
   cd stack-implementation-c
 
 3. Compile and run the program:
 
-  '''bash
+  ```bash
   gcc main.c stack_operations.c -o stack_program
 ./stack_program
 
