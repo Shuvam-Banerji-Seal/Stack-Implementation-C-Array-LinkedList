@@ -24,14 +24,12 @@ This repository showcases a versatile stack implementation in C, offering both a
 
 2. Navigate to the project directory:
    ```bash
-  cd stack-implementation-c
+   cd stack-implementation-c
+
 
 3. Compile and run the program:
 
   ```bash
-  gcc main.c stack_operations.c -o stack_program
-./stack_program
+  gcc main.c stack_operations.c -o stack_program./stack_program
 
 
-##Contributions
-Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback.
